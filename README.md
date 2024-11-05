@@ -49,7 +49,16 @@ Data profiling in  SQL server helps to examining and analysing the characteristi
 
 ## Data Cleaning and Processes ## 
 
-Data cleaning in SQL server is a critical step in preparing your data for analysis. Here’s a rundown of how it can be done effectively using SQL server:
+Cleaning in SQL Server generally refers to tasks that help maintain the health, performance, and integrity of the database. This involve cleaning up unused data, optimizing indexes, updating statistics, and managing database files, among others.
+
+Here are the key steps for cleaning up a SQL Server database
+Delete Old Data: Remove records that are no longer needed, such as old log data, historical records, or obsolete entries.
+ Update Statistics
+Outdated statistics can cause poor query performance, so updating them is a good practice.
+Cleanup Temporary Tables and Objects
+Drop Temporary Tables:temporary tables (#TempTables) are dropped after use to avoid unnecessary space usage
+Backup the Database
+After performing cleanup operations, back was done on the database
 
 
   
