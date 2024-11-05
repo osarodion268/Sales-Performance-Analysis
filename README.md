@@ -164,6 +164,23 @@ GROUP BY region;
  `` AND orderdate < DATEADD(quarter, DATEDIFF(quarter, 0, GETDATE()), 0)
  `` AND customer_id IS NULL;
 
+## Conclusion ##
+The SQL queries conducted in this analysis provide valuable insights into sales performance across various dimensions.
+ By understanding total sales by category, regional activity, customer behavior, and product performance,
+the organization can make informed decisions to enhance sales strategies and overall business performance.
+
+
+## Recommendations##
+Based on the findings:
+*Focus on boosting marketing efforts in regions with lower sales transactions*
+*Consider promotional strategies for under performing product categories*
+*Engage with top customers for loyalty programs to retain their business*
+*Investigate reasons for products with no sales to take corrective actions*
+*This report serves as a foundational tool for ongoing sales analysis and strategy development*
+
+
+
+
 
 
 
