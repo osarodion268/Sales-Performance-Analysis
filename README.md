@@ -1,6 +1,8 @@
 # Sales-Performance-Analysis
 ## Project overview ##
  This project contains a series of SQL queries designed to analyze sales data for a company. The queries focus on evaluating sales performance, customer behavior, and product trends, helping business analysts and managers derive insights from transactional data.
+ 
+ **Power BI was use for vistualization of the said data**
 
 The database used in this analysis is named Sales Performance Analysis, and the main table for analysis is dbo.atobatele. Below is a breakdown of each query and its purpose:
 ## Project Scope ## 
@@ -10,10 +12,10 @@ This project covers sales performance analysis, the price variation during the p
 The purpose for this analysis is to identify if there are any noticeable sales trends over time, to find out the best and the worst selling product by identifying high performing and underperforming, identifying key customer, and to find out variation across product
 
 ## Document Purpose ##
-This documentation serves as a guide for project stakeholders, providing insights into the sales performance, data sources, data analysis, visualizations, and any other relevant information.
+This documentation serves as a guide for the business stakeholders, providing insights into the sales performance, data sources, data analysis, visualizations, and any other relevant information.
 
 ## Use Case ##
-This project for sales analysis will provide valuable insights and improvements across various operational aspects. Different stakeholders and decision making personnel within the organization could leverage these findings to enhance their functionality. Here are key stakeholders who could make use of this analysis and benefit from it.
+This document for sales analysis will provide valuable insights and improvements across various operational aspects. Different stakeholders and decision making personnel within the organization could leverage these findings to enhance their functionality. Here are key stakeholders who could make use of this analysis and benefit from it.
 
 **Shareholders**  
 - Use of Analysis: shareholders can leverage on this analysis when carrying out decision making guarding the companies on product sales and improve overall efficiency in day-to-day operations.
