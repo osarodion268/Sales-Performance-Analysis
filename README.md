@@ -33,4 +33,13 @@ This project for sales analysis will provide valuable insights and improvements 
 -	Data Profiling
 -	Data Cleaning 
 -	Data Analysis
--	Data Visualization Using power bi 
+-	Data Visualization Using power bi
+
+ 	 **Data Source**
+The project utilizes a dataset containing information on sales performance analysis for a retail store. The dataset used for this analysis was gotten from a retail store. The dataset is a excel file and it consist single tables with ten column which are orderid,customerid,product,region,orderdate,quantity,unityprice,totalprice,revenue,month. The row’s in the table contains about 500001 which is use in the data analysis, this data is from the period of 2023 to 2024
+
+**Data Connection Details**
+
+in SQL, connecting to a EXCEL file involves specifying the location of the EXCEL file and defining the data import settings. Here are the steps taken in data connection in SQL Server. 
+
+  
