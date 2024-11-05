@@ -83,7 +83,7 @@ Write queries to extract key insights based on the following questions.
 To run these queries, i made use of the following :
 
 Create a database named Sales Performance Analysis.
-Use the dbo.atobatele table, which should contain the following columns
+I Used the dbo.atobatele table, which should contain the following columns
 product: The product sold.
 total_price: The price of the product sold.
 region: The region where the sale occurred.
