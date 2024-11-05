@@ -42,4 +42,14 @@ The project utilizes a dataset containing information on sales performance analy
 
 in SQL, connecting to a EXCEL file involves specifying the location of the EXCEL file and defining the data import settings. Here are the steps taken in data connection in SQL Server. 
 
+## Data Profiling ##
+
+Data profiling in  SQL server helps to examining and analysing the characteristics and quality of data to gain insights into its structure, patterns, potential issues, and identify outliers. It helps to make informed decision on data cleaning and transformation. SQL server provides several tools and features that help to profile data effectively. These are column quality, column distribution and column profile.
+
+
+## Data Cleaning and Processes ## 
+
+Data cleaning in SQL server is a critical step in preparing your data for analysis. Here’s a rundown of how it can be done effectively using SQL server:
+
+
   
